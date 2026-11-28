@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795738476 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795824886 12h 15m 3w 3h
 0--dca8.realmebbs.com IN CNAME .
 *.0--dca8.realmebbs.com IN CNAME .
 0--listteswww.realmebbs.com IN CNAME .
@@ -80452,6 +80452,8 @@ adservice.google.com.co IN CNAME .
 *.adservice.google.com.co IN CNAME .
 adservice.google.com.cu IN CNAME .
 *.adservice.google.com.cu IN CNAME .
+adservice.google.com.cy IN CNAME .
+*.adservice.google.com.cy IN CNAME .
 adservice.google.com.do IN CNAME .
 *.adservice.google.com.do IN CNAME .
 adservice.google.com.ec IN CNAME .
@@ -1245266,6 +1245268,8 @@ smetrics.kone.com IN CNAME .
 *.smetrics.kone.com IN CNAME .
 smetrics.kone.com.au IN CNAME .
 *.smetrics.kone.com.au IN CNAME .
+smetrics.kone.com.cy IN CNAME .
+*.smetrics.kone.com.cy IN CNAME .
 smetrics.kone.cz IN CNAME .
 *.smetrics.kone.cz IN CNAME .
 smetrics.kone.dk IN CNAME .
@@ -1246226,6 +1246230,8 @@ smetrics.pwc.com.au IN CNAME .
 *.smetrics.pwc.com.au IN CNAME .
 smetrics.pwc.com.br IN CNAME .
 *.smetrics.pwc.com.br IN CNAME .
+smetrics.pwc.com.cy IN CNAME .
+*.smetrics.pwc.com.cy IN CNAME .
 smetrics.pwc.com.tr IN CNAME .
 *.smetrics.pwc.com.tr IN CNAME .
 smetrics.pwc.com.uy IN CNAME .
@@ -1323142,6 +1323148,8 @@ target.pwc.com IN CNAME .
 *.target.pwc.com IN CNAME .
 target.pwc.com.au IN CNAME .
 *.target.pwc.com.au IN CNAME .
+target.pwc.com.cy IN CNAME .
+*.target.pwc.com.cy IN CNAME .
 target.pwc.com.tr IN CNAME .
 *.target.pwc.com.tr IN CNAME .
 target.pwc.com.uy IN CNAME .
